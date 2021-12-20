@@ -1,6 +1,6 @@
 # Public Updates
 
-Updating some completely off-topic stuff about me cause why not?
+Updating some completely off-topic stuff about me (and useful updates on things) cause why not?
 
 ## Chaning Profile Pic
 
@@ -11,4 +11,4 @@ And this will be the most absurd thing you are gonna see (I think).
 
 ## Notice
 
-Don't worry at all, it won't be just some silly updates, there will be more updates which would be useful and not be _silly, like the second commit_, but hey, it is good to enjoy while we are it ^^.
+Don't worry at all, it won't be just some silly updates, there will be more updates which would be useful and not be _silly, like the second commit_, but hey, it is good to enjoy while we are it ^^
