@@ -15,7 +15,7 @@ Updating some completely off-topic stuff about me (and useful updates on things)
 And this will be the most absurd thing you are gonna see (I think).
 
 - Updated last pfp from 2019 - 20/12/2021
-- - Now practically ngl, this image comes from 2015, but made this github account in 2019 ^^'
+- - Now practically ngl, this image comes from 2015 [have been using it since then on many places], but made this github account in 2019 ^^'
 
 ## Notice
 
