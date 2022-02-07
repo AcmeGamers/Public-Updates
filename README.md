@@ -4,7 +4,7 @@ A Full list of all the repositories can be seen in the link below. (Yes, I have 
 
 ## Text To HTML Converter
 Converts your text to html directly, requires more features to be added, which will be added soon after I'm done with a project.
-* https://acme-developers.github.io/text-to-html/index.html
+- https://acme-developers.github.io/text-to-html/index.html
 
 # Public Updates About Myself
 
@@ -16,6 +16,7 @@ And this will be the most absurd thing you are gonna see (I think).
 
 - Updated last pfp from 2019 - 20/12/2021
 - - Now practically ngl, this image comes from 2015 [have been using it since then on many places], but made this github account in 2019 ^^'
+
 
 ## Notice
 
