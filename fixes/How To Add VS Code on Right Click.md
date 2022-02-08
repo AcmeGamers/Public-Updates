@@ -23,7 +23,7 @@ Note: **Keys** are called folders in registry editor
 - - - Inside the folder, open the default file and add the following command: 
 - - - - `C:\Users\{username}\AppData\Local\Programs\Microsoft VS Code\Code.exe /waitfile:%1`
 
-# Creating "open current folder with vscode" on folder Click Registry
+# Creating "open current directory with vscode" on folder Click Registry
 - Go to [HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
 - - Create a folder called "vscode"
 - - Create a string file called "Open Folder with VS Code"
@@ -32,4 +32,5 @@ Note: **Keys** are called folders in registry editor
 
 - - Create another folder (key) inside it called **"command"**
 - - - Inside the folder, open the default file and add the following command: 
-- - - - `C:\Users\{username}\AppData\Local\Programs\Microsoft VS Code\Code.exe /waitfile:%1`
+- - - - `C:\Users\{username}\AppData\Local\Programs\Microsoft VS Code\Code.exe`
+
